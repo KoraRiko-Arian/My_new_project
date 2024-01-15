@@ -36,5 +36,8 @@ SosAI will always try to give the right information and it's important to use it
 ## What next?:
 SosAI can become better, adding more useful information, understanding more languages, and improving how it can help in emergencies. Working with experts and user reviews can help make sosAI as best friend in emergencies.
 
+![image](https://github.com/KoraRiko-Arian/My_new_project/assets/148553205/5ad32c6c-cf8c-4bab-a93b-970d065b6919)
+
+
 ## Acknowledgments:
 Thanks to Elements of AI for the opportunity to study artificial intelligence
